@@ -3,9 +3,6 @@
 
 Student at Nord University
 
-
-Skills: C# / JS / HTML / CSS
-
 - Currently learning Unreal Engine 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marzlars&show_icons=true&count_private=true)  
