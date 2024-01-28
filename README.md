@@ -1,4 +1,4 @@
-### Hi there 👋, ...
+### Hi there 👋
 #### I'm Lars Gustav H. Fossen
 Student at Nord University
 
