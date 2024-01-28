@@ -2,9 +2,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/5ZdkHKKaM8ZsscCAtTpQ3M?si=8-FgZ6LVRIKg-_hI-mAPvQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/lars-gustav-fossen)  
 Student at Nord University
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
-
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=marzlars&style=flat-square&color=blue" alt=""></p>
 
 
 Skills: C# / JS / HTML / CSS
