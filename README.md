@@ -1,5 +1,4 @@
-### Hi there 👋
-#### I'm Lars Gustav H. Fossen
+### Lars Gustav H. Fossen
 Student at Nord University
 
 Skills: C# / JS / HTML / CSS
