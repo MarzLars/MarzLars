@@ -2,9 +2,15 @@
 
 #### Lars Gustav H. Fossen
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/5ZdkHKKaM8ZsscCAtTpQ3M?si=8-FgZ6LVRIKg-_hI-mAPvQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/lars-gustav-fossen)
+&#x20;
 
-{% embed url="https://soundcloud.com/lars-gustav-fossen?utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard" %}
+<figure><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="" width="188"><figcaption></figcaption></figure>
+
+<figure><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="" width="188"><figcaption></figcaption></figure>
+
+[Laaars](https://soundcloud.com/lars-gustav-fossen) · [UK NIGHT VIBEZZZ/ w sum random juiceee frfr](https://soundcloud.com/lars-gustav-fossen/sets/uk-night-vibezzz)
+
+
 
 Student at Nord University
 
