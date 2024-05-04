@@ -1,4 +1,4 @@
-# 😎 README
+# README
 
 #### Lars Gustav H. Fossen
 
