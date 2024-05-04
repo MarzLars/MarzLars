@@ -8,9 +8,9 @@
 
 <figure><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="" width="188"><figcaption></figcaption></figure>
 
-[Laaars](https://soundcloud.com/lars-gustav-fossen) · [UK NIGHT VIBEZZZ/ w sum random juiceee frfr](https://soundcloud.com/lars-gustav-fossen/sets/uk-night-vibezzz)
 
 
+{% embed url="https://soundcloud.com/lars-gustav-fossen/sets/uk-night-vibezzz?si=95c3ae785c164a4c97b04726b6c79eea&utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard" %}
 
 Student at Nord University
 
