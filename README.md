@@ -1,9 +1,12 @@
-# README
+# 😎 README
 
 #### Lars Gustav H. Fossen
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/5ZdkHKKaM8ZsscCAtTpQ3M?si=8-FgZ6LVRIKg-_hI-mAPvQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/lars-gustav-fossen)
+[![spotify](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg)](https://open.spotify.com/artist/5ZdkHKKaM8ZsscCAtTpQ3M?si=8-FgZ6LVRIKg-\_hI-mAPvQ) [![soundcloud](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg)](https://soundcloud.com/lars-gustav-fossen)
 
+
+
+{% embed url="https://soundcloud.com/lars-gustav-fossen?utm_campaign=social_sharing&utm_medium=text&utm_source=clipboard" %}
 
 Student at Nord University
 
