@@ -1,14 +1,37 @@
-### Lars Gustav H. Fossen
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/artist/5ZdkHKKaM8ZsscCAtTpQ3M?si=8-FgZ6LVRIKg-_hI-mAPvQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg' alt='soundcloud' height='40'>](https://soundcloud.com/lars-gustav-fossen)
+---
+description: >-
+  This is a markdown readme file created with GitBook; link to website view of
+  this file: https://marzlars.gitbook.io/temporary-poachers-markdown
+---
 
-Student at Nord University
-
-- Currently learning Unreal Engine 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marzlars&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=marzlars)  
+# README
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=marzlars&style=flat-square&color=blue" alt=""></p>
 
+{% hint style="info" %}
+$$f(x) = x * e^{2 pi i \xi x}$$
+{% endhint %}
+
+link to gitbook page with view-only access: https://app.gitbook.com/invite/uZMY4X7crbQgtQ2dZ2Rs/7x12vboA8OWTUKWTU25e
+
+
+
+
+
+<figure><img src=".gitbook/assets/TP_PFP.png" alt="Logo" width="375"><figcaption><p>Logo of Temporary Poachers</p></figcaption></figure>
+
+Mermaid diagram test:
+
+```mermaid
+graph LR
+    Initialize --> GameLoop
+    GameLoop --> HandleInput
+    HandleInput --> UpdateGame
+    UpdateGame --> Render
+    Render --> GameLoop
+    GameLoop --> CheckQuit
+    CheckQuit -->|yes| Quit
+    CheckQuit -->|no| GameLoop
+```
+
+Slack link: https://join.slack.com/t/slack-vyg1374/shared\_invite/zt-2baitgfw7-zDMatwb7q8dpspR\~9mU6SQ
