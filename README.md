@@ -7,8 +7,6 @@
 
 Student at Nord University
 
-* Currently learning Unreal Engine
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=marzlars\&show\_icons=true\&count\_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=marzlars)
